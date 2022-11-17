@@ -142,7 +142,7 @@ class ItemPage extends StatelessWidget {
                         "Size:",
                         textAlign: TextAlign.justify,
                         style: TextStyle(
-                          fontSize: 17,
+                          fontSize: 16,
                           fontWeight: FontWeight.bold,
                           color: Color(0xFF4c53A5),
                         ),
